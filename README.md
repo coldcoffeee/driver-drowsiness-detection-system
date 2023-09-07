@@ -38,7 +38,7 @@ To run the Driver Drowsiness Detection System, your system should meet the follo
 ## Usage and Instructions
 
 1. Clone the repository to your local machine:  
-   `git clone https://github.com/yourusername/drowsiness-detection.git`
+   `git clone https://github.com/coldcoffeee/drowsiness-detection.git`
 
 2. Install the required Python libraries:  
    `pip install -r requirements.txt`
