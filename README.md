@@ -23,7 +23,6 @@ The Driver Drowsiness Detection System is a project designed to enhance road saf
 - Python: The primary programming language for the project.
 - OpenCV: Used for computer vision tasks, including facial recognition.
 - MediaPipe: Provides face and eye tracking capabilities.
-- Pig: Custom module for real-time analysis and alerts.
 - Streamlit: The user interface is built using Streamlit.
 - Docker: Used for containerization and easy deployment.
 
